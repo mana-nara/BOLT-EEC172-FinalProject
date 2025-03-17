@@ -46,12 +46,6 @@ BOLT (Bike Overwatch & Location Tracker) is an advanced bike security system tha
 - **OLED Display**:
   - Displays system status and alerts.
 
-## Circuit Connections
-- **Accelerometer**: Connected via I2C (SCL: Pin 1, SDA: Pin 2).
-- **GPS Module**: Uses UART1 (TX: Pin 58, RX: Pin 59).
-- **IR Receiver**: Connected to GPIO Pin 3.
-- **OLED Display**: SPI communication (CS: Pin 18, DC: Pin 45, MOSI: Pin 7, CLK: Pin 5, RESET: Pin 8).
-
 
 
 ## Setup Instructions
