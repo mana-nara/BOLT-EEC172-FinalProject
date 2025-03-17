@@ -1,0 +1,5 @@
+/Release/
+.vscode
+.settings
+.launches
+.DS_Store
